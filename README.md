@@ -1,5 +1,7 @@
 # Hooraybeer
 
+More information about each section of the app is available in the wiki. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
 ## Development server
